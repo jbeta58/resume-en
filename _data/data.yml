@@ -1,0 +1,383 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    courses: True # set to False if you want courses in main section instead of in sidebar
+
+    # Profile information
+    name: Juan Sebastián Betancourt Tabares
+    tagline: Analista de Inteligencia de Negocios
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jbeta58@gmail.com
+    phone: 317 516 22 49
+    website:  #do not add http://   ----    blog.webjeda.com
+    linkedin: jbeta58
+    github: 
+    gitlab:
+    bitbucket:
+    twitter: '@jbeta58'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Inglés
+        level: Avanzado
+
+    interests:
+      - item: Senderismo
+        link:
+
+      - item: Lectura
+        link:
+
+      - item: Cine
+        link:
+
+      - item: Cocina
+        link:
+
+      - item: Fútbol
+        link:
+        
+      - item: Viajes
+        link:
+
+
+
+career-profile:
+    title: Perfil
+    summary: |
+      
+      Analista de Inteligencia de Negocios, con 10+ años de experiencia en empresas de
+      software y construcción, generando valor con mis habilidades en análisis financiero, 
+      gerencia de proyectos, mejora de procesos, entre otros. Busco una empresa en la que pueda construir 
+      soluciones y crear valor a partir del análisis de datos y su interpretación en el mundo real y a su vez
+      seguir avanzando en mi carrera de científico de datos.
+
+
+      
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+
+#      Second paragraph if required.
+
+other-skills:
+
+    - name: Crecimiento Empresarial
+      details: |
+           Durante 8+ años ayudé a edificar el grupo empresarial constructor
+           más innovador del departamento de Córdoba, pasando de 4 a 20+ colaboradores directos, 200+
+           indirectos y ventas de 2.000 a 10.000 millones anuales durante este periodo.
+             
+           Ideamos desde la gerencia estrategias y tácticas para convertirla en una compañía reconocida 
+           por clientes, proveedores y colaboradores por su calidad, cumplimiento, competitividad, y 
+           ambiente laboral.
+           
+    - name: Análisis de Datos
+      details: |
+           En el último año he articulado mi conocimiento y experiencia en el ámbito de los 
+           negocios, la ingeniería y las matemáticas, para generar valor en la compañía Yuxi Global a través de la obtención
+           de datos, su procesamiento, visualización e interpretación.
+
+    - name: Análisis Financiero
+      details: |
+           Los últimos 5 años he contribuido con la toma de decisiones a nivel gerencial, a través de
+           la construcción de diversos artefactos financieros y KPIs con datos provenientes de diferentes
+           fuentes y procesados con macros de Excel y lenguaje DAX para la presentación en tablas dinámicas, 
+           Power BI, entre otros.
+
+    - name: Gerencia de Proyectos
+      details: |
+           Durante 2 años, y la ejecución total del contrato, gerencié un importante proyecto de construcción 
+           en la ciudad de Montería, donde generé sinergias entre todos los stakeholders (empresa de acueducto,
+           alcaldía, gobernación, proveedores, contratistas y la comunidad) para entregar la obra a tiempo, dentro
+           del presupuesto y con todos los requisitos de calidad necesarios para su correcto funcionamiento.
+
+    - name: Mejora de Procesos
+      details: |
+           En mi paso por Berah Construcciones y Proyecto Inmobiliario RIO conocí de primera mano cada proceso
+           de la compañía e implementé mejoras en todos sus procedimientos, mezclando mis conocimientos de auditoría
+           de calidad y múltiples herramientas tecnológicas. 
+           
+           Utilicé diversas técnicas y mecanismos para identificar oportunidades de mejora, incluida la metodología
+           Lean Project Delivery System (LPDS) que a través de herramientas como Last Planner System, entre otros
+           busca la eliminación de pérdidas en los procesos de un proyecto (Planeación, Ejecución, Entrega y Posventa),
+           todo esto enmarcado en los principios de la filosofía Lean Construction.
+           
+
+
+experiences:
+
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#        error sit voluptatem accusantium doloremque laudantium, totam rem
+#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#        architecto beatae vitae dicta sunt explicabo.
+
+#          - Bullet point
+#          - Bullet point
+
+    - role: Gerente de Negocios
+      time: Junio 2018 - Presente
+      company: Yuxi Global S.A.S., Armenia
+      details: |
+           - Diseño informes mensuales en Power BI con KPIs que representan la gestión de 100+ colaboradores y
+           ventas de 5+ millones de dólares anuales, a partir de diversas fuentes de información (bases de datos y
+           Excel) y permite la toma de decisiones y generación de valor para el propietario.
+           - Elaboro análisis financieros y propongo recomendaciones para oportunidades de negocios usando métodos
+           como VPN, TIR, entre otros.
+           - Administro la sede de operaciones de Armenia con capacidad de 30+ puestos de trabajo.
+
+#    - role: Lider de Oficina
+#      time: Junio 2018 - Presente
+#      company: Yuxi Global S.A.S., Armenia
+#      details: |
+#           - 
+
+    - role: Freelancer
+      time: Mayo 2017 - Mayo 2018
+      company: Independiente, Armenia
+      details: |
+           - Asesoré a 10+ empresas e independientes en el mejoramiento de procedimientos empresariales y
+           la elaboración oportuna de informes financieros para la toma de decisiones en pro de la generación
+           de valor.
+
+    - role: Subgerente Administrativo y Financiero
+      time: Septiembre 2015 - Marzo 2017
+      company: Proyecto Inmobiliario RIO S.A.S., Montería
+      details: |
+           - Desarrollé informes automatizados con VBA y tablas dinámicas en Excel, para la toma de decisiones
+           financieras en tiempo real, a partir de la base de datos del software contable de 10.000+ registros
+           anuales.
+           
+           - Implementé el Sistema Last Planner y la filosofía Lean Construction, en la construcción del 
+           edificio residencial RIO, de 32 apartamentos, ubicado en el sector más exclusivo de la ciudad
+           y valor total de venta de 24.000+ millones de pesos, logrando disminución de pérdidas en la planeación,
+           ejecución y posventa del proceso constructivo.
+           
+           - Automaticé el proceso de Gestión de Reformas de Clientes con el software BPM Bizagi, permitiendo la
+           gestión oportuna de 200+ solicitudes de cambios en los apartamentos, reduciendo los tiempos de respuesta,
+           los reprocesos y los retrasos de obra, mejorando así la eficiencia en la construcción del edificio.
+
+    - role: Gerente de Proyecto
+      time: Septiembre 2011 - Enero 2014
+      company: Unión Temporal Eléctricos, Montería
+      details: |
+           - Gerencié la construcción de la Estación de Bombeo de Aguas Residuales Paraíso, por un valor
+           total de 2.500+ millones de pesos, teniendo bajo mi cargo a 30+ colaboradores directos e indirectos,
+           cumpliendo el presupuesto, cronograma y alcance, para el beneficio de más de 80 mil personas de la
+           ciudad.
+
+    - role: Subgerente Administrativo y de Calidad
+      time: Febrero 2009 - Agosto 2015
+      company: Berah Construcciones S.A.S., Montería
+      details: |
+           - Caractericé, documenté e implementé 20+ procedimientos de los procesos Estratégicos, Misionales
+           y de Apoyo, que permitió la reducción de reprocesos y aumentó la eficiencia operativa de la
+           empresa.
+
+    - role: Supervisor de Instalaciones Eléctricas y Domótica
+      time: Febrero 2009 - Agosto 2015
+      company: Berah Construcciones S.A.S., Montería
+      details: |
+           - Supervisé las instalaciones en 40+ apartamentos ubicados en dos edificios de alta gama en el
+           sector más exclusivo de la ciudad, estableciendo procedimientos de inspección eficientes para el
+           cumplimiento de los tiempos de entrega.
+                      
+    - role: Ingeniero Residente
+      time: Enero 2008 - Junio 2008
+      company: Edgar Francisco Gómez, Bogotá
+      details: |
+           - Diseñé e implementé un sistema de control automático para riego de cultivos de flores de invernaderos 
+           del SENA y CENIFLORES, logrando así el máximo aprovechamiento en la recirculación de nutrientes.
+
+
+education:
+    - degree: Magister en Administración de Empresas
+      university: Universidad Pontificia Bolivariana, Montería
+      time: 2015 - 2017
+      details: |
+         Énfasis en Finanzas
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
+
+#          - Bullet point
+#          - Bullet point
+
+    - degree: Ingeniero Electrónico
+      university: Universidad Nacional de Colombia, Bogotá
+      time: 2002 - 2007
+      details: |
+
+
+
+courses:
+    - degree: Gerencia Estratégica de Proyectos (PMI)
+      university: CAMACOL, Montería
+      time: 2014
+      details: |
+
+    - degree: Automatización de Proyectos con Microsoft Project
+      university: SENA (Virtual)
+      time: 2012
+      details: |
+      
+    - degree: Contabilidad en las Organizaciones
+      university: SENA (Virtual)
+      time: 2009
+      details: |
+
+    - degree: Planificación del Sistema de Gestión de Calidad
+      university: SENA (Virtual)
+      time: 2008
+      details: |
+
+    - degree: Curso completo de Inglés
+      university: BNC Colombo Americano, Armenia
+      time: 1999 - 2000
+      details: |
+
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+
+skills:
+    title: Habilidades #&amp; Competencias
+
+    toolset:
+
+      - name: Microsoft Power BI
+        level: 90%
+
+      - name: DAX
+        level: 80%
+        
+      - name: Microsoft Excel
+        level: 98%
+
+      - name: VBA
+        level: 90%
+
+      - name: Python
+        level: 80%
+
+      - name: SQL
+        level: 70%
+
+      - name: Jupyter Notebooks
+        level: 80%
+
+      - name: Midasoft (ERP)
+        level: 80%
+
+      - name: FOMPLUS (ERP)
+        level: 95%
+
+      - name: Bizagi (BPM)
+        level: 90%
+
+      - name: Microsoft Word
+        level: 98%
+
+      - name: Microsoft Power Point
+        level: 98%
+
+      - name: Matemáticas y Estadística
+        level: 90%
+
+      - name: Lean Construction
+        level: 98%
+
+      - name: Trabajo en Equipo
+        level: 90%
+
+      - name: Resolución de problemas
+        level: 98%
+
+      - name: Pensamiento Ágil
+        level: 95%
+
+      - name: Orientado a Resultados
+        level: 95%
+
+      - name: Responsabilidad
+        level: 100%
+
+      - name: Asertividad
+        level: 100%
+
+references:
+    - name: María Fernanda Llano Gaviria
+      company: Yuxi Global S.A.S., Medellín
+      phone: 313 787 4526
+      mail: maria.llano@yuxiglobal.com
+
+    - name: Humberto Carlos Ramos Vergara
+      company: Proyecto Inmobiliario RIO S.A.S. | Berah Construcciones S.A.S., Montería
+      phone: 317 668 37 52
+      mail: humbertocrv@hotmail.com
+
+    - name: Fabio Echeverría Carrascal
+      company: Unión Temporal Eléctricos, Montería
+      phone: (4) 781 40 20
+      mail: 
+
+    - name: Edgar Francisco Gómez Acero
+      company: Universidad Nacional de Colombia, Bogotá
+      phone: 313 251 67 68
+      mail:
+
+
+footer: >
+    Diseñado con <i class="fas fa-heart"></i> por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> y
+    mejorado por <a href="http://www.linkedin.com/in/jbeta58/" target="_blank" rel="nofollow">Sebastián Betancourt</a>
