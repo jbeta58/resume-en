@@ -57,11 +57,10 @@ career-profile:
     title: Profile
     summary: |
       
-      Business Intelligence Analyst, con 10+ años de experiencia en empresas de
-      software y construcción, generando valor con mis habilidades en análisis financiero, 
-      gerencia de proyectos, mejora de procesos, entre otros. Busco una empresa en la que pueda construir 
-      soluciones y crear valor a partir del análisis de datos y su interpretación en el mundo real y a su vez
-      seguir avanzando en mi carrera de científico de datos.
+      Business Intelligence Analyst, with 10+ years of experience in software and construction companies, 
+      generating value with my skills in financial analysis, project management, process improvement, 
+      among others. I am looking for a company where I can build solutions and create value from data analysis 
+      and its interpretation in the real world, and in turn keep growing my data scientist career.
 
 
       
@@ -77,44 +76,43 @@ other-skills:
 
     - name: Business Growth
       details: |
-           Durante 8+ años ayudé a edificar el grupo empresarial constructor
-           más innovador del departamento de Córdoba, pasando de 4 a 20+ colaboradores directos, 200+
-           indirectos y ventas de 2.000 a 10.000 millones anuales durante este periodo.
-             
-           Ideamos desde la gerencia estrategias y tácticas para convertirla en una compañía reconocida 
-           por clientes, proveedores y colaboradores por su calidad, cumplimiento, competitividad, y 
-           ambiente laboral.
+           For 8+ years I helped to build the most innovative construction enterprise group in Córdoba CO, 
+           going from 4 to 20+ direct & 200+ indirect collaborators, and from 2,000 to 10,000 million COP anual
+           sales during this period.
+             
+           We devised strategies and tactics to make it a recognized company by customers, suppliers and 
+           collaborators for their quality, compliance, competitiveness, and work environment.
            
     - name: Data Analysis
       details: |
-           En el último año he articulado mi conocimiento y experiencia en el ámbito de los 
-           negocios, la ingeniería y las matemáticas, para generar valor en la compañía Yuxi Global a través de la obtención
-           de datos, su procesamiento, visualización e interpretación.
+           In the last year I have articulated my knowledge and experience in the business, engineering and
+           math fields, to generate value in Yuxi Global through data capture, processing, visualization and
+           interpretation.
 
     - name: Financial Analysis
       details: |
-           Los últimos 5 años he contribuido con la toma de decisiones a nivel gerencial, a través de
-           la construcción de diversos artefactos financieros y KPIs con datos provenientes de diferentes
-           fuentes y procesados con macros de Excel y lenguaje DAX para la presentación en tablas dinámicas, 
-           Power BI, entre otros.
+           The last 5 years I have contributed to decision-making in management, through
+           the development of several financial artefacts and KPIs built with data obtained from different
+           sources, processed with Excel macros and DAX language, to be presented in pivot tables,
+           Power BI, among others.
 
     - name: Project Management
       details: |
-           Durante 2 años, y la ejecución total del contrato, gerencié un importante proyecto de construcción 
-           en la ciudad de Montería, donde generé sinergias entre todos los stakeholders (empresa de acueducto,
-           alcaldía, gobernación, proveedores, contratistas y la comunidad) para entregar la obra a tiempo, dentro
-           del presupuesto y con todos los requisitos de calidad necesarios para su correcto funcionamiento.
+           For 2 years, and the total execution of the contract, I managed an important construction project
+           in Montería CO, where I generated synergies among all the stakeholders (aqueduct company,
+           city hall, government, suppliers, contractors and the community) to deliver the work on time, within
+           the budget and with all the quality requirements for its operation.
 
     - name: Quality Assurance
       details: |
-           En mi paso por Berah Construcciones y Proyecto Inmobiliario RIO conocí de primera mano cada proceso
-           de la compañía e implementé mejoras en todos sus procedimientos, mezclando mis conocimientos de auditoría
-           de calidad y múltiples herramientas tecnológicas. 
-           
-           Utilicé diversas técnicas y mecanismos para identificar oportunidades de mejora, incluida la metodología
-           Lean Project Delivery System (LPDS) que a través de herramientas como Last Planner System, entre otros
-           busca la eliminación de pérdidas en los procesos de un proyecto (Planeación, Ejecución, Entrega y Posventa),
-           todo esto enmarcado en los principios de la filosofía Lean Construction.
+           During my time at Berah Construcciones and Proyecto Inmobiliario RIO, I ran into each process of the company
+           and I implemented improvements in all its procedures, mixing quality assurance knowledge and multiple 
+           technological tools.
+           
+           I used various techniques and mechanisms to identify opportunities for improvement, including
+           Lean Project Delivery System (LPDS) that through tools such as Last Planner System, among others
+           seeks the elimination of losses in project processes (Planning, Execution, Delivery and After Sales),
+           all this framed in Lean Construction principles.
            
 
 
@@ -137,12 +135,12 @@ experiences:
       time: June 2018 - Actual
       company: Yuxi Global S.A.S., Armenia, CO
       details: |
-           - Diseño informes mensuales en Power BI con KPIs que representan la gestión de 100+ colaboradores y
-           ventas de 5+ millones de dólares anuales, a partir de diversas fuentes de información (bases de datos y
-           Excel) y permite la toma de decisiones y generación de valor para el propietario.
-           - Elaboro análisis financieros y propongo recomendaciones para oportunidades de negocios usando métodos
-           como VPN, TIR, entre otros.
-           - Administro la sede de operaciones de Armenia con capacidad de 30+ puestos de trabajo.
+           - I design monthly reports in Power BI with KPIs that represent 100+ employees management and
+            annual sales of 5+ million dollars, from various sources (databases and Excel) and that allows decision 
+            making and value creation for the owner.
+            - I prepare financial analyzes and propose recommendations for business opportunities using methods
+            as NPV, IRR, among others.
+            - I manage the Armenia headquarters, with a 30+ jobs capacity.
 
 #    - role: Lider de Oficina
 #      time: Junio 2018 - Presente
@@ -154,9 +152,8 @@ experiences:
       time: May 2017 - May 2018
       company: Self-Employed, Armenia, CO
       details: |
-           - Asesoré a 10+ empresas e independientes en el mejoramiento de procedimientos empresariales y
-           la elaboración oportuna de informes financieros para la toma de decisiones en pro de la generación
-           de valor.
+           - I advised 10+ companies and people in the improvement of business procedures and
+            the preparation of financial reports for decision-making and vakue generation.
 
     - role: Financial & Administrative Sub-Manager
       time: September 2015 - March 2017
