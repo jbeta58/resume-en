@@ -48,7 +48,7 @@ sidebar:
       - item: Soccer
         link:
         
-      - item: Travel
+      - item: Traveling
         link:
 
 
@@ -57,7 +57,7 @@ career-profile:
     title: Profile
     summary: |
       
-      Analista de Inteligencia de Negocios, con 10+ años de experiencia en empresas de
+      Business Intelligence Analyst, con 10+ años de experiencia en empresas de
       software y construcción, generando valor con mis habilidades en análisis financiero, 
       gerencia de proyectos, mejora de procesos, entre otros. Busco una empresa en la que pueda construir 
       soluciones y crear valor a partir del análisis de datos y su interpretación en el mundo real y a su vez
@@ -134,8 +134,8 @@ experiences:
 #          - Bullet point
 
     - role: Business Manager
-      time: Junio 2018 - Presente
-      company: Yuxi Global S.A.S., Armenia
+      time: June 2018 - Actual
+      company: Yuxi Global S.A.S., Armenia, CO
       details: |
            - Diseño informes mensuales en Power BI con KPIs que representan la gestión de 100+ colaboradores y
            ventas de 5+ millones de dólares anuales, a partir de diversas fuentes de información (bases de datos y
@@ -151,16 +151,16 @@ experiences:
 #           - 
 
     - role: Freelancer
-      time: Mayo 2017 - Mayo 2018
-      company: Independiente, Armenia
+      time: May 2017 - May 2018
+      company: Self-Employed, Armenia, CO
       details: |
            - Asesoré a 10+ empresas e independientes en el mejoramiento de procedimientos empresariales y
            la elaboración oportuna de informes financieros para la toma de decisiones en pro de la generación
            de valor.
 
-    - role: Subgerente Administrativo y Financiero
-      time: Septiembre 2015 - Marzo 2017
-      company: Proyecto Inmobiliario RIO S.A.S., Montería
+    - role: Financial & Administrative Sub-Manager
+      time: September 2015 - March 2017
+      company: Proyecto Inmobiliario RIO S.A.S., Montería, CO
       details: |
            - Desarrollé informes automatizados con VBA y tablas dinámicas en Excel, para la toma de decisiones
            financieras en tiempo real, a partir de la base de datos del software contable de 10.000+ registros
@@ -176,41 +176,41 @@ experiences:
            los reprocesos y los retrasos de obra, mejorando así la eficiencia en la construcción del edificio.
 
     - role: Project Manager
-      time: Septiembre 2011 - Enero 2014
-      company: Unión Temporal Eléctricos, Montería
+      time: September 2011 - January 2014
+      company: Unión Temporal Eléctricos, Montería, CO
       details: |
            - Gerencié la construcción de la Estación de Bombeo de Aguas Residuales Paraíso, por un valor
            total de 2.500+ millones de pesos, teniendo bajo mi cargo a 30+ colaboradores directos e indirectos,
            cumpliendo el presupuesto, cronograma y alcance, para el beneficio de más de 80 mil personas de la
            ciudad.
 
-    - role: Subgerente Administrativo y de Calidad
-      time: Febrero 2009 - Agosto 2015
-      company: Berah Construcciones S.A.S., Montería
+    - role: Administrative Sub-Manager
+      time: February 2009 - August 2015
+      company: Berah Construcciones S.A.S., Montería, CO
       details: |
            - Caractericé, documenté e implementé 20+ procedimientos de los procesos Estratégicos, Misionales
            y de Apoyo, que permitió la reducción de reprocesos y aumentó la eficiencia operativa de la
            empresa.
 
-    - role: Supervisor de Instalaciones Eléctricas y Domótica
-      time: Febrero 2009 - Agosto 2015
-      company: Berah Construcciones S.A.S., Montería
+    - role: Electric & Automation Supervisor
+      time: February 2009 - August 2015
+      company: Berah Construcciones S.A.S., Montería, CO
       details: |
            - Supervisé las instalaciones en 40+ apartamentos ubicados en dos edificios de alta gama en el
            sector más exclusivo de la ciudad, estableciendo procedimientos de inspección eficientes para el
            cumplimiento de los tiempos de entrega.
                       
-    - role: Ingeniero Residente
-      time: Enero 2008 - Junio 2008
-      company: Edgar Francisco Gómez, Bogotá
+    - role: Resident Engineer
+      time: January 2008 - June 2008
+      company: Edgar Francisco Gómez, Bogotá, CO
       details: |
            - Diseñé e implementé un sistema de control automático para riego de cultivos de flores de invernaderos 
            del SENA y CENIFLORES, logrando así el máximo aprovechamiento en la recirculación de nutrientes.
 
 
 education:
-    - degree: Master in Business Administration
-      university: Universidad Pontificia Bolivariana, Montería
+    - degree: Master in Business Administration (MBA)
+      university: UPB University, Montería, CO
       time: 2015 - 2017
       details: |
          Finance Emphasis
@@ -224,7 +224,7 @@ education:
 #          - Bullet point
 
     - degree: Electronic Engineer
-      university: Universidad Nacional de Colombia, Bogotá
+      university: Colombia National University, Bogotá, CO
       time: 2002 - 2007
       details: |
 
@@ -232,27 +232,27 @@ education:
 
 courses:
     - degree: Projects Strategic Management (PMI)
-      university: CAMACOL, Montería
+      university: CAMACOL, Montería, CO
       time: 2014
       details: |
 
     - degree: Projects Automation with Microsoft Project
-      university: SENA (Virtual)
+      university: SENA
       time: 2012
       details: |
       
     - degree: Enterprise Accounting
-      university: SENA (Virtual)
+      university: SENA
       time: 2009
       details: |
 
     - degree: Quality Management System Planning
-      university: SENA (Virtual)
+      university: SENA
       time: 2008
       details: |
 
     - degree: Full English Course
-      university: BNC Colombo Americano, Armenia
+      university: BNC Colombo Americano, Armenia, CO
       time: 1999 - 2000
       details: |
 
@@ -358,22 +358,22 @@ skills:
 
 references:
     - name: María Fernanda Llano Gaviria
-      company: Yuxi Global S.A.S., Medellín
+      company: Yuxi Global S.A.S., Medellín, CO
       phone: 313 787 4526
       mail: maria.llano@yuxiglobal.com
 
     - name: Humberto Carlos Ramos Vergara
-      company: Proyecto Inmobiliario RIO S.A.S. | Berah Construcciones S.A.S., Montería
+      company: Proyecto Inmobiliario RIO S.A.S. | Berah Construcciones S.A.S., Montería, CO
       phone: 317 668 37 52
       mail: humbertocrv@hotmail.com
 
     - name: Fabio Echeverría Carrascal
-      company: Unión Temporal Eléctricos, Montería
+      company: Unión Temporal Eléctricos, Montería, CO
       phone: (4) 781 40 20
       mail: 
 
     - name: Edgar Francisco Gómez Acero
-      company: Universidad Nacional de Colombia, Bogotá
+      company: Universidad Nacional de Colombia, Bogotá, CO
       phone: 313 251 67 68
       mail:
 
