@@ -60,7 +60,7 @@ career-profile:
       Business Intelligence Analyst, with 10+ years of experience in software and construction companies, 
       generating value with my skills in financial analysis, project management, process improvement, 
       among others. I am looking for a company where I can build solutions and create value from data analysis 
-      and its interpretation in the real world, and in turn keep growing my data scientist career.
+      and its interpretation in the real world, and keep growing my data scientist career.
 
 
       
@@ -85,15 +85,15 @@ other-skills:
            
     - name: Data Analysis
       details: |
-            In the last year I have articulated my knowledge and experience in business, engineering and
+            In the last year, I have articulated my knowledge and experience in business, engineering and
             math fields, to generate value in Yuxi Global through data capture, data wrangling, visualization and
             interpretation.
 
     - name: Financial Analysis
       details: |
-            The last 5 years I have contributed to decision-making in business management, through
-            the development of several financial artefacts and KPIs, with data obtained from different
-            sources, processed with Excel macros and DAX language, and to be presented in pivot tables,
+            In the last 5 years I have contributed to decision-making in business management, through
+            the development of several financial artifacts and KPIs, with data obtained from different
+            sources, processed with Excel macros and DAX language, and presented in pivot tables,
             Power BI, among others.
 
     - name: Project Management
@@ -101,7 +101,7 @@ other-skills:
             For 2 years, and the total execution of the contract, I managed an important construction project
             in Montería CO, where I generated synergies among all the stakeholders (aqueduct company,
             city hall, government, suppliers, contractors and the community) to deliver the work on time, within
-            budget and with all the quality requirements for its operation.
+            budget and with all quality requirements for its operation.
 
     - name: Quality Assurance
       details: |
@@ -135,14 +135,14 @@ experiences:
       time: June 2018 - Actual
       company: Yuxi Global S.A.S., Armenia, CO
       details: |
-            - I design monthly reports in Power BI with KPIs that represent 100+ employees management and
-            annual sales of 5+ million dollars, with data from various sources (databases and Excel), that allows decision 
+            - I design monthly reports in Power BI with KPIs that represent 100+ employee's performance and
+            5+ million dollars annual sales, with data from various sources (databases and Excel), that allows decision 
             making and value creation for the owner.
             
             - I prepare financial analyzes and propose recommendations for business opportunities using methods
             as NPV, IRR, among others.
             
-            - I manage the Armenia headquarters, where there's a 30+ jobs capacity.
+            - I manage the Armenia headquarters, where there's a 35+ jobs capacity.
 
 #    - role: Lider de Oficina
 #      time: Junio 2018 - Presente
@@ -166,7 +166,7 @@ experiences:
             
             - I implemented the Last Planner System and the Lean Construction philosophy, in the construction of
             RIO residential building, with 32 apartments, located in the most exclusive area of the city
-            and total sales of 24,000+ million COP, reducing losses construction processes (Planning,
+            and total sales of 24,000+ million COP, reducing losses in construction processes (Planning,
             Execution and After Sales).
             
             - I automated the Customer Reform Management process with Bizagi BPM software, allowing the
@@ -185,7 +185,7 @@ experiences:
       time: February 2009 - August 2015
       company: Berah Construcciones S.A.S., Montería, CO
       details: |
-            - Characterized, documented and implemented 20+ procedures of the strategic, core and support processes,
+            - I characterized, documented and implemented 20+ procedures of the strategic, core and support processes,
             which allowed the reduction of reprocesses and increased the operational efficiency of the company.
 
     - role: Electric & Automation Supervisor
@@ -200,7 +200,7 @@ experiences:
       time: January 2008 - June 2008
       company: Edgar Francisco Gómez, Bogotá, CO
       details: |
-            - Designed and implemented an automatic control system for irrigation of greenhouse flower crops
+            - I designed and implemented an automatic control system for the irrigation of greenhouse flower crops
             at SENA and CENIFLORES, thus achieving maximum recirculation of nutrients.
 
 
