@@ -26,11 +26,13 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+      - idiom: English
+        level: C1
+        
       - idiom: Spanish
         level: Native
 
-      - idiom: English
-        level: Advanced
+      
 
     interests:
       - item: Hiking
